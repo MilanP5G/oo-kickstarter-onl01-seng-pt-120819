@@ -10,7 +10,7 @@ class Backer
   end 
   
   def backed_projects
-    @backed_projects
+   return @backed_projects
   end 
 
 
