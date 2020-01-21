@@ -1,11 +1,11 @@
 class Backer
   
-  def inititialize(backer)
-    @backer = backer
+  def inititialize(name)
+    @name = name
   end 
   
-  def backer
-    @backer 
+  def name 
+    @name
   end 
 
 
