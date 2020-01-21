@@ -1,4 +1,7 @@
 class Backer
   
-  def ini
+  def inititialize
+  end 
+
+
 end 
