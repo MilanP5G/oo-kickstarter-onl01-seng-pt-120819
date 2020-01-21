@@ -9,4 +9,8 @@ class Project
     @title
   end 
   
+  def backers
+    return @backers
+  end 
+  
 end 
